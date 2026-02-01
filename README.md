@@ -1,39 +1,33 @@
-<h2 align="center">👋 Olá! Eu sou a Camila</h2>
+# 👋 Olá! Eu sou a Camila
 
-<p align="center">
-🎓 Formada em Análise e Desenvolvimento de Sistemas, com foco em <strong>Engenharia de Software</strong> aplicada ao desenvolvimento <strong>Java Back-end</strong>.<br>
-☕ Experiência em Java, POO e APIs REST.<br>
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**, com foco em  
+**Engenharia de Software aplicada ao desenvolvimento Java Back-end**.  
+
+☕ Experiência com **Java**, **Programação Orientada a Objetos** e **APIs REST**.  
 📚 Em constante evolução técnica e prática.
-</p>
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilaSGD&show_icons=true" />
-</p>
+![Camila GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaSGD&show_icons=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSGD&layout=compact" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSGD&layout=compact)
 
 ---
 
-<h3 align="center">🔥 Consistência</h3>
+## 🚀 Foco em Java & Engenharia de Software
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CamilaSGD" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- Java Back-end  
+- Boas práticas de código  
+- Engenharia de Software  
+- APIs REST  
+- Git & GitHub  
 
 ---
 
-<h3 align="center">🏆 Ranking & Produtividade</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CamilaSGD&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CamilaSGD&theme=default&utcOffset=-3" />
-</p>
+✨ Este perfil reflete minha jornada prática e contínua na área de tecnologia.
