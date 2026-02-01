@@ -1,32 +1,33 @@
 # 👋 Olá! Eu sou a Camila
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**, com foco em  
-**Engenharia de Software aplicada ao desenvolvimento Java Back-end**.  
+**Engenharia de Software aplicada ao desenvolvimento Java Back-end**.
 
-☕ Experiência com **Java**, **Programação Orientada a Objetos** e **APIs REST**.  
-📚 Em constante evolução técnica e prática.
+☕ Atuação e estudos voltados para **Java**, **Programação Orientada a Objetos**  
+e **desenvolvimento de APIs REST**.
 
----
-
-## 📊 GitHub Stats
-
-![Camila GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaSGD&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSGD&layout=compact)
+📚 Em constante evolução técnica e prática, buscando aprimorar boas práticas,  
+organização de código e fundamentos da Engenharia de Software.
 
 ---
 
 ## 🚀 Foco em Java & Engenharia de Software
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Java Back-end  
-- Boas práticas de código  
-- Engenharia de Software  
-- APIs REST  
-- Git & GitHub  
+---
+
+## 📊 GitHub Summary (Ranking)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamilaSGD&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CamilaSGD&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CamilaSGD&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CamilaSGD&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CamilaSGD&theme=dracula&utcOffset=-3)
 
 ---
 
