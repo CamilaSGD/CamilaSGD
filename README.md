@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou a Camila
 
-☕ Foco em **Java Back-end**  
-📚 Engenharia de Software  
-
+🎓 Formada em Análise e Desenvolvimento de Sistemas, com foco em Engenharia de Software aplicada ao desenvolvimento Java Back-end.
+☕ Experiência em Java, POO e APIs REST.
+📚 Em constante evolução técnica e prática.
 ---
 
 ## 📊 GitHub Summary (Ranking)
